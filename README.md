@@ -79,11 +79,12 @@ Screenshots demonstrating the application's main menu and banking operations wil
 
 ### Main Menu
 
-![Banking System Main Menu](screenshots/main-menu.png)
+![Banking System Main Menu](screenshots/create_acc.png)
 
 ### Account Management
 
-![Account Management](screenshots/account-management.png)
+![Account Management](screenshots/create_acc.png)
+![Account Management](screenshots/create_acc.png)
 
 ### Deposit and Withdrawal
 
