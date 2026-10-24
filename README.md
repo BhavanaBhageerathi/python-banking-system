@@ -84,11 +84,15 @@ Screenshots demonstrating the application's main menu and banking operations wil
 ### Account Management
 
 ![Account Management](screenshots/create_acc.png)
-![Account Management](screenshots/create_acc.png)
+![Account Management](screenshots/view_acc.png)
+![Account Management](screenshots/search_acc.png)
+![Account Management](screenshots/update_acc.png)
+![Account Management](screenshots/delete_acc.png)
 
 ### Deposit and Withdrawal
 
-![Deposit and Withdrawal](screenshots/deposit-withdrawal.png)
+![Deposit and Withdrawal](screenshots/deposit_money.png)
+![Deposit and Withdrawal](screenshots/withdraw_money.png)
 
 ## Future Enhancements
 
